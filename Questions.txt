@@ -1,0 +1,29 @@
+Explore the items table
+Your first objective is to better understand the items table by finding the number of rows in the table, the least and most expensive items, and the item prices within each category.
+
+1. View the menu items table.
+2. Write a query to find the number of items on the menu
+3. What are the least and most expensive items on the menu?
+4. How many Italian dishes are on the menu? 
+5. What are the least and most expensive Italian dishes on the menu?
+6. How many dishes are in each category? 
+7. What is the average dish price within each category?
+
+Explore the orders table
+Your second objective is to better understand the orders table by finding the date range, the number of items within each order, and the orders with the highest number of items.
+
+1. View the order details table. 
+2. What is the date range of the table?
+3. How many orders were made within this date range?
+4. How many items were ordered within this date range?
+5. Which orders had the most number of items?
+6. How many orders had more than 12 items?
+
+Analyze customer behavior
+Your final objective is to combine the items and orders tables, find the least and most ordered categories, and dive into the details of the highest spend orders.
+
+1. Combine the menu items and order details tables into a single table
+2. What were the least and most ordered items? What categories were they in?
+3. What were the top 5 orders that spent the most money?
+4. View the details of the highest spend order. Which specific items were purchased?
+5. View the details of the top 5 highest spend orders.
